@@ -1,0 +1,51 @@
+.hero{
+    color: white;
+    background-image: url(./coding.jpg);
+    padding-top: 15em;
+    padding-bottom: 15em;
+    padding-left: 5em;
+}
+.row1{
+    margin-top: 0%;
+    background: linear-gradient(-45deg, #EC5252 0, #6E1A52 100%);
+    text-align: center;
+}
+.pad{
+    padding-top: 20px;
+}
+.feat{
+    color: white;
+}
+.feat-bel{
+    color: white;
+}
+.cards{
+    background-color: gainsboro;
+    padding: 10%;
+    overflow-x: scroll;
+}
+.card{
+    margin: 15px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+.third{
+    padding: 1%;
+    padding-bottom: 40px;
+}
+h3{
+    font-size: 1rem;
+}
+p{
+    font-size: 1rem;
+}
+.card-img-top{
+    width: 60px;
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+}
